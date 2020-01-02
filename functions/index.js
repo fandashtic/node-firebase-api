@@ -13,8 +13,8 @@ admin.initializeApp({
 const db = admin.firestore();
 
 //HttpGet
-//http://localhost:5000/mirror-app-ef1d2/us-central1/get?root=entries
-//https://us-central1-mirror-app-ef1d2.cloudfunctions.net/get?root=entries
+//http://localhost:5000/micro-services-27afa/us-central1/get?root=entries
+//https://us-central1-micro-services-27afa.cloudfunctions.net/get?root=entries
 exports.get = functions.https.onRequest(async (request, response) => {
     var root = String(request.query.root);
     const snapshot = await db.collection(root).get();
@@ -23,8 +23,8 @@ exports.get = functions.https.onRequest(async (request, response) => {
 });
 
 //HttpPost
-//http://localhost:5000/mirror-app-ef1d2/us-central1/put?root=entries&id=123
-//https://us-central1-mirror-app-ef1d2.cloudfunctions.net/put?root=entries&id=Manickam
+//http://localhost:5000/micro-services-27afa/us-central1/put?root=entries&id=123
+//https://us-central1-micro-services-27afa.cloudfunctions.net/put?root=entries&id=Manickam
 //Body: {"Name":"Hello1234","Class":"123","School":"GHSS"}
 exports.put = functions.https.onRequest(async (request, response) => {
     var data = request.body;
