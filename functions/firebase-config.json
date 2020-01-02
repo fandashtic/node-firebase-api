@@ -1,0 +1,15 @@
+{
+  "tocken": {
+    "type": "service_account",
+    "project_id": "micro-services-27afa",
+    "private_key_id": "b61b4845ab917ac4797579860349375085431dc9",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCOff2hYGbiYzIS\nwqRM7OT7m8OxmFGGaAitjFhtZzvlV3t/l9pjl0wg/jBqEjAKE7qyoTWReu70YtOw\neZSVXlt1/uo+XJWlqt7aqJZDU/1ntBzZK2UWoIMnjxbo7KFAWhwMg4thwTW6lOOr\nl6ZSUUE2zMfr2fPL4Wvtu6L6dbtrw2BOj2ZGyrFCh7/A7SevInrhPfD+eQbJU72B\nQ4YPUcIpoDJfoMZut4hTz8WWvQtr4ZGkoHklbIj1Em5z3TJK5Pr4H5EmKBJsvVcN\nMfnmmLhiKUJFelB75hyGH5ZPEUPZ8KGRXvdZfOTJKcviYY/FakzUd5mpr0wYUU7n\n+Ac4hj8RAgMBAAECggEAM75HuG7P3ZzE5bAdxrttqXqWVSrpS+QCZrcks1G+G9mp\nRJupl+msoPx9Kz+Ah2BDtzM4RyR7mm46zgZQcO9LSi1v9YZcZ0UF2SRIMJnS1vI+\nWZRbCJzwE5Dv8lRfeAVg0yB/oFdvgdooVLrkkFbmVhaF8Lz8PYiVz0YIeGgBT6+f\nxBLOBBVAMfFUfMEkYcc6gqwNgqQ9UpBhBCvxVMWwrQGs24rjqarmosq+nB+8yLHY\nTfRpkmvAxURM0lw0al9plkay7SRAy+VDxNXaSt8i7yGML8sYnQrbH7j1AMRCHDCR\n0P9cKZcIGmIPaLqmesEHKv0+MVwmQvAqBFPfKu/hiwKBgQDFPeKlEjHbktP5l++g\nnOh1xOuFgs7QUVADyNPrJH2CEi01jcv0O8oUYUTzPuqsa7luo3GiWSmX6UYl3Ip9\nPZQhF8Cd/QlPH9CURIvnKHv/s/biA/vANB2c2UpCiWHAQXp7owPFlHahuNhdaHNL\nQkKUJeWCO+yTGEQg55ob6JNHpwKBgQC48MY0a1d/y46i5ziEdqcSNVTM8dEfA+xN\nINEXGrVMNmztb1D1tmYP8s6eWyGUw8Vl/vF0PSWqFmMxOagItU3W7VBYVk2NEUxZ\n2+9HSb5zBrB0hLCxLzxw6QttUrDPxCuqsWkg3DWD6yKEaBsUNuo8QBeRSyFW+e0a\nVRcNYFeahwKBgQC9nYez/zDVEGsdyDWCZzWGeh+dAyqE05ajfL5VkIfjskup7z4B\n9jSHsRbS7Uo3JXxnY1MLqsG0m3pnTYQJcFhmE+qFN0tquIAQ+XCxcZb7M+wETaYI\nmVFahv2/x0ikxY3VK9qlZ9tAD25ZJd+omvNcbq4brDX7Ftnv9BaP+98SgwKBgEYN\n5naKxq1A9Tnd7jm3HFg4XXP4kad2+/bHXIys8En7P8284eUBf63A4uV3TcQlWEvn\ng5ztYKwKKO7HkVAjJWYppMqhfmTWTZ6oQf41/+9gdEzeynODmhiHHm396b356DST\nWWg6IgdjdULEkKVam+XQvVyrIejpaRgVbVMC0IxXAoGAbTW2zTkD6J/liO/gNYcV\n9M8ysOjev+d0JAxczvc/SfnaTbdOMBVH2Va6PaffivQ8Ap0uk4Qv9oHrj5eqX3ek\nLt4K2gQ4NKWjDgT8JMvM0wG4FdbbcoEn9TI4tWqLACkkbRn0SULBGfbPfEPt3anF\nvJy/DDuTBNkCfxhABvICGR4=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-toz10@micro-services-27afa.iam.gserviceaccount.com",
+    "client_id": "113682003404354690312",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-toz10%40micro-services-27afa.iam.gserviceaccount.com"
+  },
+  "databaseURL": "https://micro-services-27afa.firebaseio.com"
+}
